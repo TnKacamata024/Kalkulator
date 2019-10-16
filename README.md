@@ -7,6 +7,6 @@ $ pkg install python
 $ pkg install bash
 $ pkg install git
 $ pkg install bc
-$ git clone https://github.com/TnKacamata024/kalkulator
-$ cd kalkulator
-$ sh kalkulator.sh
+$ git clone https://github.com/TnKacamata024/Kalkulator
+$ cd Kalkulator
+$ sh Kalkulator.sh
